@@ -5,9 +5,81 @@
 <!--this is where i am completely going to start after i refresh prework-->
   <meta charset="utf-8">
   <title>Music History</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+	
 </head>
 
 <body>
+<!--first red box containing view,add,profile-->		
+	<nav id="top">
+		<a href="#">View Music</a>
+		<a href="#">|  Add Music</a>
+		<a href="#">|  Profile</a>
+	</nav>
+
+	<!--Blue section containing drop down options and check boxes-->
+	<div class="selections">
+		<ul>
+			<li>Song Length</li>
+				<div><!--slider-->
+					<input type="range" name="Song-range" min="15" max="25" step="0.5" value="18.5">
+				</div>
+			<li>Artist :</li>
+				<div>
+					<select id="feedback-type" name="type"><!--artist drop down-->
+      					<option>options</option>
+     			 		<option>Marc Broussard</option>
+      					<option>The White Stripes</option>
+      					<option>Al Green</option>
+     			 		<option>Maxwell</option>
+      					<option>Johnny Cash</option>
+    				</select>
+				</div>
+			<li>Album :</li>
+				<div>
+					<select id="feedback-type" name="type"><!--album drop down-->
+      					<option>options</option>
+     			 		<option>Carenco</option>
+      					<option>White Blood Cells</option>
+      					<option>Call Me</option>
+     			 		<option>Now</option>
+      					<option>American IV</option>
+    				</select>
+				</div>
+			<li>Genre :</li><!--checkbox feature-->
+				    <input type="checkbox" name="Rock" value="Rock"> Rock
+      				<input type="checkbox" name="Pop" value="Pop"> Pop
+      				<input type="checkbox" name="Blues" value="Blues"> Blues
+      				<input type="checkbox" name="Classical" value="Classical"> Classical
+      				<input type="checkbox" name="Jazz" value="Jazz"> Jazz
+      				<input type="checkbox" name="Hip Hop" value="Hip Hop"> Hip Hop
+
+
+			<li><!--filter button leading to Narnia-->
+				<form action="/" method="post">
+  					<button>Filter</button>
+				</form>
+			</li>	
+		</ul>
+	</div>	
+<!--large yellow section listing song names and all related info-->
+	<div class="yellow">
+		<ul>
+			<li>Song Name </li>
+				<div>Artist name  |  Album name  |  Genre</div>
+			<li>Song Name </li>
+				<div>Artist name  |  Album name  |  Genre</div>
+			<li>Song Name </li>
+				<div>Artist name  |  Album name  |  Genre</div>
+			<li>Song Name </li>
+				<div>Artist name  |  Album name  |  Genre</div>
+			<li>Song Name </li>
+				<div>Artist name  |  Album name  |  Genre</div>
+		</ul>
+	</div>
+
+
+
 
 
 </body>
