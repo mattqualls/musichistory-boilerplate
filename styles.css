@@ -6,9 +6,6 @@ body {
 
 
 
-/***************
-top nav box
-***************/
 
 
 
@@ -26,9 +23,9 @@ top nav box
 	font-size: normal;
 }
 
-/****************
-blue selection box left hand side
-*****************/
+
+
+/*blue selection box left hand side*/
 
 .selections {
 	box-sizing: border box;
@@ -47,11 +44,10 @@ blue selection box left hand side
 	list-style: none;
 }
 
-/****************
-yellow display box right hand side
-*****************/
-/**box positioning**/
-.yellow {
+
+ /*yellow display box right hand side*/
+/*box positioning*/
+#yellow {
 	float: right;
 	background-color: #fffac0;
 	color: #785616;
@@ -63,7 +59,7 @@ yellow display box right hand side
 
 }
 
-.yellow li {
+#yellow li {
 	font-size: 2.50em;
 	list-style: none;
 }
