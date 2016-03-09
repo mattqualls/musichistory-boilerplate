@@ -32,7 +32,8 @@ label {
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background: url("../img/music-bg.png"); }
+  /*background: url("../img/music-bg.png");*/ 
+}
 
 a, span {
   font-size: 0.85em; }
