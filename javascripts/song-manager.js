@@ -28,7 +28,7 @@ function addSong () {
 		createUserSelects(newSong);
 		outputSongs(newSong);
 	} else {
-		alert("You missed a field! Try again.");
+		alert("You missed something! Try again.");
 	}
 }
 

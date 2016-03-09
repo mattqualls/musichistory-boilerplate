@@ -1,44 +1,44 @@
 {
 	"songs": [
 	{
-		"title": "Let's Get Busy",
-		"artist": "Pretty Lights",
-		"album": "A Color Map Of The Sun",
-		"genre": "Electronic",
-		"artist_id": "pre",
-		"album_id": "col"
+		"title": "Hail Mary",
+		"artist": "Tupac Shakur ",
+		"album": "The Don Killuminati: The 7 Day Theory",
+		"genre": "Rap",
+		"artist_id": "tup",
+		"album_id": "the"
 	},
 	{
-		"title": "A Fine Way To Die",
-		"artist": "Griz",
-		"album": "Say It Loud",
-		"genre": "Funk",
-		"artist_id": "gri",
-		"album_id": "say"
+		"title": "The Wanderer",
+		"artist": "Marc Broussard",
+		"album": "Carencro",
+		"genre": "Blues",
+		"artist_id": "bro",
+		"album_id": "car"
 	},
 	{
-		"title": "I Would Be Sad",
-		"artist": "The Avett Brothers",
-		"album": "Emotionalism",
+		"title": "Hurt",
+		"artist": "Johnny Cash",
+		"album": "American IV: The Man Comes Around",
 		"genre": "Americana",
-		"artist_id": "ave",
-		"album_id": "emo"
+		"artist_id": "cas",
+		"album_id": "ame"
 	},
 	{
-		"title": "Holland, 1945",
-		"artist": "Neutral Milk Hotel",
-		"album": "In The Aeroplane Over The Sea",
-		"genre": "Indie",
-		"artist_id": "neu",
-		"album_id": "aer"
+		"title": "Mother",
+		"artist": "Danzig",
+		"album": "Danzig",
+		"genre": "Metal",
+		"artist_id": "dan",
+		"album_id": "dan"
 	},
 	{
-		"title": "Dance Yrself Clean",
-		"artist": "LCD Soundsystem",
-		"album": "This Is Happening",
-		"genre": "Dance Punk",
-		"artist_id": "lcd",
-		"album_id": "thi"
+		"title": "Anytime",
+		"artist": "Brian McKnight",
+		"album": "Anytime",
+		"genre": "R & B",
+		"artist_id": "bri",
+		"album_id": "any"
 	}
 	]
 }

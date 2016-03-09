@@ -31,9 +31,7 @@ label {
   padding-bottom: 1%; }
 
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  /*background: url("../img/music-bg.png");*/ 
-}
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
 a, span {
   font-size: 0.85em; }
@@ -47,7 +45,7 @@ label {
 
 /* NAV BAR */
 #top {
-  background-color: rgba(51, 51, 51, 0.9);
+  background-color: #1B1DA1;
   margin-top: 2%;
   border-radius: 20px 20px 0 0;
   border: 1px solid black;
@@ -60,7 +58,7 @@ label {
 
 /* LEFT SIDE W/ SELECTS */
 #left-side {
-  background-color: rgba(51, 51, 51, 0.9);
+  background-color: #1B1DA1;
   color: #c8c8c8;
   border-radius: 0 0 0 20px;
   text-align: left;
@@ -107,7 +105,7 @@ label {
 
 /* RIGHT SIDE W/ SONGS */
 #right-side {
-  background-color: rgba(51, 51, 51, 0.9);
+  background-color: #1B1DA1;
   color: #c8c8c8;
   border-radius: 0 0 20px 0;
   text-align: left;
